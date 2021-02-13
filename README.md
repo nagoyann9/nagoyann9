@@ -2,7 +2,7 @@
 - 👀 I’m interested in creativity support tool.
 - 🌱 I’m currently learning Java,jsp,Servlet.
 - 💞️ I’m looking to collaborate on groupware company.
-- 📫 How to reach me is email(yutarohayashi@toki.waseda.jp).
+- 📫 How to reach: via email | yutarohayashi@toki.waseda.jp
 
 <!---
 nagoyann9/nagoyann9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
