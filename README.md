@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nagoyann9
+- 👋 Hi, I’m @nagoyann9 (Yutaro Hayashi)
 - 👀 I’m interested in creativity support tool.
 - 🌱 I’m currently learning Java,jsp,Servlet.
 - 💞️ I’m looking to collaborate on groupware company.
