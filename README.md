@@ -1,6 +1,6 @@
-- Hi, I’m @nagoyann9 (Yutaro Hayashi)
+- Hi, 
 - I’m interested in creativity support tool.
-- I’m currently learning Java,jsp,Servlet.
+- I’m currently learning Java,jsp,Servlet.Claude, Android, Toom
 - I’m looking to collaborate on groupware company.
 - How to reach: via email | yutarohayashi@toki.waseda.jp
 
